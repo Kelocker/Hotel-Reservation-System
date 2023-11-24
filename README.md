@@ -3,7 +3,7 @@
 
 ---
 ## Table of Contents
-1. [Disclamer] (#disclaimer)
+1. [Disclamer](#disclaimer)
 2. [Introduction](#introduction)
 3. [What to expect?](#What-to-expect)
 4. [About Our Team](#About-Our-Team)
