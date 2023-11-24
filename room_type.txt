@@ -1,0 +1,6 @@
+{"Room type": "JACK ROOM", "price": "800"}
+{"Room type": "MIKE ROOM", "price": "8230"}
+{"Room type": "POPCORN ROOM", "price": "400"}
+{"Room type": "HUI WEN ROOM", "price": "300"}
+{"Room type": "YIN YEE ROOM", "price": "500"}
+{"Room type": "KELVIN ROOM", "price": "999"}

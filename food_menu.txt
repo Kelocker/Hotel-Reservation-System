@@ -1,0 +1,4 @@
+{"restaurant": "sides", "chicken wings": 10, "mushroom soup": 8, "french fries": 5, "mushroom pizza": 45.0, "salad": 8.0}
+{"restaurant": "main", "grilled salmon": 25, "steak": 35, "pasta": 20, "burger": 15}
+{"restaurant": "desserts", "cheesecake": 8, "chocolate lava cake": 15, "ice cream": 5, "brownies": 10}
+{"restaurant": "drinks", "tea": 4, "coke": 4, "coffee": 7, "mineral water": 2}

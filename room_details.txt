@@ -1,0 +1,12 @@
+{"Room type": "MIKE ROOM", "Room number": "900", "Status": "True"}
+{"Room type": "POPCORN ROOM", "Room number": "123", "Status": "True"}
+{"Room type": "JACK ROOM", "Room number": "521", "Status": "False"}
+{"Room type": "POPCORN ROOM", "Room number": "124", "Status": "True"}
+{"Room type": "POPCORN ROOM", "Room number": "125", "Status": "True"}
+{"Room type": "YIN YEE ROOM", "Room number": "180", "Status": "True"}
+{"Room type": "YIN YEE ROOM", "Room number": "181", "Status": "True"}
+{"Room type": "YIN YEE ROOM", "Room number": "182", "Status": "True"}
+{"Room type": "KELVIN ROOM", "Room number": "700", "Status": "True"}
+{"Room type": "KELVIN ROOM", "Room number": "701", "Status": "True"}
+{"Room type": "KELVIN ROOM", "Room number": "702", "Status": "True"}
+{"Room type": "HUI WEN ROOM", "Room number": "194", "Status": "False"}
