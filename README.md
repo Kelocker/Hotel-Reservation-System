@@ -74,3 +74,8 @@ Our team name is <strong>RANDOM</strong>.
 I'm CHONG KELVIN the team representitive of <strong>RANDOM</strong>. Besides that, I am  overseeing the comprehensive management and integration of all files within our hotel reservation system project. For a detailed overview of my portfolio and contributions, you can explore my [GitHub Profile](https://github.com/kelocker), where I host a collection of open-source projects and contributions, including those related to Python-based hotel reservation systems.
 
 <strong>Team Member</strong>
+
+I'm LIM GEN JACK the developer of the RANDOM team. As the backbone of our project, my focus lies in architecting robust and efficient solutions for our hotel reservation system. For an in-depth look at my skills and contributions, you're welcome to explore my [GitHub Profile](https://github.com/Jack-1118), where I showcase a collection of open-source projects and notable contributions.
+
+I am HEW YEE KIT. I have helped my team in building this project for our assignment with troubleshooting the codes and fixing any known bugs to make the program to run smoothly without any issues.
+
