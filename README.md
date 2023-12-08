@@ -79,3 +79,4 @@ I'm LIM GEN JACK the developer of the RANDOM team. As the backbone of our projec
 
 I am HEW YEE KIT. I have helped my team in building this project for our assignment with troubleshooting the codes and fixing any known bugs to make the program to run smoothly without any issues.
 
+I am CHUA HUI WEN. My commitment is to stay abreast of tech advancements ensures my ability to tackle complex coding challenges effectively. To delve deeper into my portfolio and accomplishments, feel free to explore my [GitHub Profile](https://github.com/CHUA1605). It houses a comprehensive array of open-source projects and contributions, encompassing various domains, with a notable focus on Python-based hotel reservation systems.
